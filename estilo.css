@@ -1,0 +1,27 @@
+
+
+body {
+    margin: 0;
+}
+
+#container {
+    font-family: 'Franklin Gothic Medium',  sans-serif;
+    
+    width: 100vw;
+    height: 100vh;
+    background: url('https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v960-ning-30.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=63dd5f402645ef52fb7dfb592aec765a');
+    background-size: cover;
+}
+.cadastro{
+    width: 100vh;
+    margin: auto;
+}
+.ficha{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.tb {
+    text-align: center;
+}
